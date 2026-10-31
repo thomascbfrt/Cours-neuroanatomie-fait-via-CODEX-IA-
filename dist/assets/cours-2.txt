@@ -1,0 +1,717 @@
+## 1. Organisation générale du cortex
+
+On distingue dans le cours :
+
+- les **cortex sensoriels**, qui permettent le traitement conscient des informations sensorielles ;
+- les **cortex moteurs**, impliqués dans la préparation et l'exécution des mouvements ;
+- les **cortex associatifs**, qui réalisent des traitements plus complexes et ne sont pas purement sensoriels ou moteurs.
+
+Deux régions associatives sont particulièrement importantes :
+
+1. le **cortex préfrontal associatif** ;
+2. le **cortex pariétal associatif**.
+
+---
+
+# 2. Cortex préfrontal associatif : le centre du contrôle exécutif
+
+Le cortex préfrontal se situe à l'avant du cerveau. Il intervient dans une grande partie des fonctions cognitives complexes.
+
+### Ses principales fonctions
+
+| Fonction | Rôle |
+| --- | --- |
+| **Attention** | Sélectionner les informations importantes |
+| **Inhibition** | Bloquer une pensée, une émotion ou un comportement inapproprié |
+| **Mémoire de travail** | Maintenir temporairement une information |
+| **Flexibilité cognitive** | Modifier une habitude ou une stratégie |
+| **Planification** | Organiser les actions nécessaires pour atteindre un objectif |
+| **Résolution de problèmes** | Chercher une solution adaptée |
+| **Contrôle des pulsions** | Refuser une récompense immédiate pour un bénéfice futur |
+| **Régulation émotionnelle** | Limiter l'intensité de certaines émotions |
+
+### Mémo
+
+**Préfrontal = je contrôle, je bloque, je planifie.**
+
+---
+
+## 2.1 Attention et inhibition
+
+Faire attention nécessite de sélectionner une information et de **bloquer les distracteurs**.
+
+Exemple : pendant un cours, il faut empêcher les pensées concernant les courses, le travail à rendre ou le lendemain d'envahir la conscience.
+
+Cette inhibition demande de l'énergie.
+
+➡️ Quand on est **fatigué**, qu'on manque de sommeil ou qu'on est très anxieux, le contrôle préfrontal devient moins efficace.
+
+Conséquences possibles :
+
+- difficulté à se concentrer ;
+- augmentation des pensées intrusives ;
+- ruminations ;
+- comportements plus automatiques ;
+- difficulté à réguler ses émotions.
+
+---
+
+## 2.2 Le cortex préfrontal dorsolatéral
+
+Une région particulièrement importante est le **cortex préfrontal dorsolatéral**, impliqué dans le **contrôle exécutif**.
+
+Il permet notamment de :
+
+- bloquer les distracteurs ;
+- arrêter une action déjà commencée ;
+- inhiber des comportements automatiques ;
+- contrôler certaines pulsions ;
+- réguler certaines émotions ;
+- maintenir l'attention sur un objectif.
+
+### Exemple
+
+Une action est commencée mais on comprend qu'elle va avoir de mauvaises conséquences.
+
+➡️ Le cortex préfrontal permet de **stopper l'action**.
+
+Chez l'enfant, ce système est encore immature : l'enfant a donc généralement moins de capacités d'inhibition et d'anticipation des conséquences.
+
+---
+
+# 3. Attention interne et attention externe
+
+Le cours oppose deux grands modes.
+
+### Pensées internes
+
+Le **DMN (Default Mode Network)** est associé aux pensées internes spontanées :
+
+- souvenirs ;
+- préoccupations ;
+- pensées intrusives ;
+- ruminations.
+
+### Attention externe
+
+Le contrôle exécutif préfrontal permet au contraire de diriger l'attention vers le monde extérieur.
+
+Ces deux systèmes entrent en compétition.
+
+### Exemple
+
+On rentre chez soi en réfléchissant intensément à autre chose et on pose ses clés.
+
+Quelques minutes plus tard, impossible de savoir où elles sont.
+
+Pourquoi ?
+
+Parce que l'attention était tournée vers les **pensées internes**, pas vers l'action de poser les clés.
+
+### À retenir
+
+**Plus les pensées internes occupent l'attention, moins les informations extérieures sont correctement encodées.**
+
+---
+
+# 4. Attention sélective
+
+L'attention ne permet pas de traiter consciemment tous les éléments présents dans l'environnement.
+
+Elle **amplifie certains signaux sensoriels** en fonction de l'objectif.
+
+Exemple du cours : lorsqu'on demande de compter les passes d'une équipe, certains événements pourtant visibles peuvent passer totalement inaperçus.
+
+➡️ Le cortex préfrontal peut donc influencer les circuits sensoriels pour privilégier les informations pertinentes.
+
+**Attention = sélection, pas perception exhaustive.**
+
+---
+
+# 5. Cortex pariétal associatif
+
+Le cortex pariétal associatif participe notamment à la **prise de conscience de l'espace**.
+
+Il existe une **latéralisation** des fonctions : les deux hémisphères ne remplissent pas exactement les mêmes rôles.
+
+---
+
+## 5.1 Héminégligence
+
+Une lésion du cortex pariétal droit peut provoquer une **héminégligence gauche**.
+
+Le patient ne prend plus correctement en compte les informations provenant de la partie gauche de l'espace.
+
+Important :
+
+> Les systèmes sensoriels peuvent encore recevoir l'information, mais celle-ci n'accède pas normalement à la conscience.
+> 
+
+### Exemples
+
+Le patient peut :
+
+- manger seulement la moitié droite de son assiette ;
+- se raser uniquement la moitié droite du visage ;
+- barrer uniquement les traits situés à droite d'une feuille ;
+- recopier uniquement la partie droite d'un dessin ;
+- répartir tous les chiffres d'une horloge dans la moitié droite.
+
+### Mémo
+
+**Pariétal droit → conscience de l'espace gauche.**
+
+---
+
+# 6. Langage : Wernicke et Broca
+
+## Aire de Wernicke
+
+Elle est présentée dans le cours comme étant située dans les régions associatives postérieures de l'hémisphère gauche.
+
+### Fonction
+
+➡️ **Compréhension du langage.**
+
+Les sons sont d'abord analysés puis leur signification est décodée.
+
+### Lésion : aphasie de Wernicke
+
+Le patient :
+
+- comprend mal le langage ;
+- peut produire beaucoup de paroles ;
+- mais le discours peut devenir incohérent ou dépourvu de sens.
+
+**Wernicke = comprendre.**
+
+---
+
+## Aire de Broca
+
+Elle se situe dans le **lobe frontal**.
+
+### Fonction
+
+➡️ Organisation de la **production motrice du langage**.
+
+Une fois la phrase conçue, il faut programmer les muscles nécessaires à son articulation.
+
+### Lésion : aphasie de Broca
+
+Le patient peut comprendre ce qu'on lui dit mais éprouve de grandes difficultés à produire le langage oral.
+
+**Broca = produire/parler.**
+
+### Mémo express
+
+**Wernicke = “What does it mean?”**
+
+**Broca = bouche bloquée.**
+
+---
+
+# 7. Système limbique
+
+Le système limbique est un ensemble de structures impliquées notamment dans :
+
+- les **émotions** ;
+- certains **apprentissages** ;
+- la **mémoire**.
+
+Le cours étudie surtout :
+
+- l'hippocampe ;
+- l'amygdale ;
+- l'hypothalamus ;
+- certaines structures liées à la récompense.
+
+---
+
+# 8. Hippocampe : créer de nouveaux souvenirs
+
+L'hippocampe est situé dans la partie interne du **lobe temporal**.
+
+Il joue un rôle majeur dans :
+
+- la **mémoire épisodique** ;
+- la **mémoire sémantique** ;
+- la **mémoire spatiale**.
+
+### Mémoire épisodique
+
+Elle correspond aux événements vécus :
+
+- qu'ai-je fait hier ?
+- avec qui ?
+- à quelle heure ?
+- où étais-je ?
+
+L'hippocampe permet donc d'associer :
+
+**fait + temps + espace.**
+
+---
+
+## Patient H.M.
+
+Le patient H.M. souffrait d'épilepsie et ses deux hippocampes ont été retirés chirurgicalement.
+
+Après l'intervention, il est devenu incapable d'encoder normalement de **nouveaux souvenirs durables**.
+
+Il pouvait par exemple rencontrer plusieurs fois une personne sans se souvenir ensuite de l'avoir rencontrée.
+
+➡️ Cette observation a montré le rôle majeur de l'hippocampe dans la formation de nouveaux souvenirs.
+
+### Mais ses anciens souvenirs ?
+
+Les souvenirs anciens étaient relativement préservés.
+
+Le cours explique que l'hippocampe participe à la création/consolidation des souvenirs récents, qui deviennent progressivement représentés dans le cortex.
+
+### Mémo
+
+**Hippocampe = enregistrer le nouveau.**
+
+---
+
+# 9. Alzheimer et hippocampe
+
+Dans les premiers stades de la maladie d'Alzheimer, les régions temporales internes, notamment l'hippocampe, font partie des structures précocement affectées.
+
+Les premières difficultés peuvent donc concerner :
+
+- ce qui vient de se passer ;
+- ce que la personne a mangé ;
+- où elle vient d'aller ;
+- avec qui elle était ;
+- l'organisation temporelle et spatiale récente.
+
+La maladie est ensuite **progressive** : les réseaux cérébraux sont touchés de plus en plus largement.
+
+---
+
+# 10. Amygdale : émotions négatives et danger
+
+L'amygdale est située en avant de l'hippocampe.
+
+Dans le cours, elle est surtout associée aux émotions à **valence négative**, comme :
+
+- peur ;
+- colère ;
+- dégoût ;
+- tristesse.
+
+Elle est particulièrement importante pour la **détection rapide d'une menace**.
+
+### Pourquoi une réponse rapide ?
+
+Parce qu'une menace doit être détectée suffisamment vite pour permettre un comportement adapté :
+
+**détecter → ressentir → éviter/fuir/se défendre.**
+
+---
+
+## Cas clinique présenté dans le cours
+
+Une patiente présentant une destruction bilatérale des amygdales avait de grandes difficultés à ressentir et reconnaître certaines émotions négatives, notamment la peur.
+
+Elle pouvait ainsi adopter des comportements dangereux parce que le signal émotionnel permettant normalement d'éviter le danger était fortement perturbé.
+
+### Mémo
+
+**Amygdale = alarme émotionnelle.**
+
+---
+
+# 11. Thalamus : grand relais cérébral
+
+Le thalamus correspond à deux grands noyaux situés au centre du cerveau.
+
+Il possède de nombreuses connexions avec le cortex.
+
+Il intervient dans plusieurs types de boucles :
+
+- **sensorielles** ;
+- **motrices** ;
+- **cognitives** ;
+- attentionnelles.
+
+### Exemple sensoriel
+
+Pour la vision :
+
+**rétine → nerf optique → thalamus → cortex visuel.**
+
+Le thalamus joue donc un rôle majeur de **relais et de régulation de l'information**.
+
+---
+
+## Thalamus et conscience
+
+Les boucles **thalamo-corticales** sont présentées comme essentielles au traitement conscient de l'information.
+
+### Épilepsie-absence
+
+Lors d'une crise d'absence :
+
+- l'enfant peut brusquement arrêter son activité ;
+- il ne répond plus pendant quelques secondes ;
+- puis reprend normalement après la crise.
+
+Le cours présente cette situation comme une **rupture transitoire de la conscience** liée à une perturbation des rythmes thalamo-corticaux.
+
+À ne pas confondre avec un enfant simplement « dans la lune ».
+
+---
+
+# 12. Ganglions de la base : automatiser les comportements
+
+Les ganglions de la base regroupent plusieurs noyaux, notamment ceux cités dans le cours :
+
+- noyau caudé ;
+- putamen ;
+- pallidum ;
+- noyau sous-thalamique ;
+- substance noire.
+
+Ils fonctionnent en boucles avec le cortex.
+
+### Fonction principale à retenir
+
+➡️ **Automatisation des comportements.**
+
+---
+
+## De l'effort à l'automatisme
+
+### Exemple : apprendre à conduire
+
+Au début, il faut consciemment penser :
+
+- aux pédales ;
+- aux vitesses ;
+- au volant ;
+- à la route ;
+- aux rétroviseurs.
+
+Cela demande énormément d'attention.
+
+Avec l'entraînement, ces séquences deviennent automatiques.
+
+Même principe pour :
+
+- marcher ;
+- faire du vélo ;
+- apprendre un sport ;
+- réaliser un trajet habituel.
+
+### Mémoire procédurale
+
+Ces apprentissages automatiques correspondent notamment à la **mémoire procédurale**.
+
+**Ganglions de la base = habitudes + automatismes.**
+
+---
+
+# 13. Ganglions de la base et pathologies
+
+## Maladie de Parkinson
+
+Dans la maladie de Parkinson, les circuits des ganglions de la base sont perturbés, notamment en lien avec la disparition de neurones dopaminergiques.
+
+Conséquence :
+
+➡️ difficulté à déclencher normalement les programmes moteurs.
+
+On peut observer :
+
+- difficulté à démarrer la marche ;
+- rigidité ;
+- troubles moteurs ;
+- tremblements chez certains patients.
+
+### Stimulation cérébrale profonde
+
+Le cours présente une technique consistant à placer une électrode dans certaines structures profondes afin de modifier l'activité anormale du circuit.
+
+Cette stimulation peut améliorer fortement certains symptômes moteurs chez des patients sélectionnés.
+
+---
+
+## Syndrome de Gilles de la Tourette
+
+Le cours l'utilise comme autre exemple de perturbation de boucles automatiques des ganglions de la base.
+
+Certaines boucles comportementales deviennent difficiles à inhiber, ce qui participe aux **tics**.
+
+---
+
+# 14. Hypothalamus : régulation du corps
+
+L'hypothalamus est situé sous le thalamus.
+
+Il intervient dans la régulation de fonctions essentielles :
+
+- faim ;
+- soif ;
+- régulation hormonale ;
+- réponses liées au stress ;
+- fonctions végétatives.
+
+Il agit notamment grâce à ses relations avec l'**hypophyse**.
+
+### Axe hypothalamo-hypophysaire
+
+Il permet de contrôler la libération de nombreuses hormones dans le sang.
+
+Exemples cités dans le cours :
+
+- hormones liées aux cycles sexuels ;
+- hormones impliquées dans la réponse au stress.
+
+---
+
+# 15. Système sympathique et parasympathique
+
+## Système sympathique
+
+Il prépare l'organisme à faire face à un danger.
+
+### Fight or flight
+
+**Combat ou fuite.**
+
+Il favorise notamment :
+
+- augmentation de la respiration ;
+- accélération du rythme cardiaque ;
+- apport accru d'oxygène et de glucose aux muscles et au cerveau.
+
+Dans le même temps, certaines fonctions moins urgentes sont réduites :
+
+- digestion ;
+- reproduction.
+
+### Logique
+
+**Danger → énergie prioritaire aux muscles + cerveau.**
+
+---
+
+## Système parasympathique
+
+Il produit globalement l'effet inverse.
+
+➡️ Il participe au **retour au calme** et au fonctionnement normal de l'organisme après la situation de stress.
+
+### Mémo
+
+**Sympathique = survie/action.**
+
+**Parasympathique = repos/récupération.**
+
+---
+
+# 16. Cervelet : corriger les mouvements
+
+Le cervelet se situe à l'arrière et sous le cerveau.
+
+Il reçoit des informations provenant notamment :
+
+- de la vision ;
+- de l'oreille interne ;
+- du système somatosensoriel.
+
+Il connaît donc :
+
+- la position du corps ;
+- la position des membres ;
+- l'équilibre ;
+- les accélérations.
+
+### Fonction essentielle
+
+Le cervelet compare :
+
+**mouvement prévu ↔ mouvement réellement réalisé**
+
+puis corrige les erreurs **en temps réel**.
+
+### Exemple
+
+On trébuche dans un escalier.
+
+Le cervelet détecte immédiatement que le mouvement réel ne correspond plus au programme prévu et participe à la correction de la posture.
+
+Il participe également à l'amélioration progressive d'un geste.
+
+Exemple :
+
+1. première fléchette loin de la cible ;
+2. deuxième plus proche ;
+3. troisième encore mieux ajustée.
+
+### En cas de lésion
+
+Les mouvements deviennent moins précis et les corrections sont mauvaises.
+
+Tests évoqués :
+
+- maintien de l'équilibre ;
+- réaction lorsqu'on déséquilibre le patient ;
+- test doigt-nez.
+
+### Mémo
+
+**Cervelet = comparateur et correcteur du mouvement.**
+
+---
+
+# 17. Tronc cérébral : fonctions vitales
+
+Le tronc cérébral est situé sous l'encéphale.
+
+Il contient des structures essentielles au maintien de la vie.
+
+Il intervient notamment dans :
+
+- l'éveil ;
+- la respiration ;
+- la régulation cardiovasculaire.
+
+Il contient également plusieurs noyaux associés aux **nerfs crâniens**.
+
+Une lésion importante du tronc cérébral peut donc être extrêmement grave.
+
+### Mémo
+
+**Tronc cérébral = rester éveillé, respirer, vivre.**
+
+---
+
+# 18. Locked-in syndrome
+
+Le **locked-in syndrome** correspond à une situation dans laquelle la personne peut conserver une activité cognitive et une conscience importantes mais ne peut pratiquement plus produire de mouvements permettant de communiquer normalement.
+
+➡️ Le patient peut donc sembler inconscient alors qu'il est conscient.
+
+Le cours présente les recherches utilisant les **signaux cérébraux et l'intelligence artificielle** pour essayer de rétablir une communication avec ces patients.
+
+Un exemple célèbre cité est **Dominique Bauby**, qui pouvait contrôler une paupière et a ainsi dicté *Le Scaphandre et le Papillon*.
+
+---
+
+# 19. Quelques structures anatomiques à reconnaître
+
+| Structure | À retenir |
+| --- | --- |
+| **Corps calleux** | Relie les deux hémisphères |
+| **Ventricules** | Cavités contenant le liquide céphalorachidien |
+| **Thalamus** | Relais sensoriel, moteur et cognitif |
+| **Hippocampe** | Formation des nouveaux souvenirs |
+| **Amygdale** | Détection des émotions négatives / menace |
+| **Ganglions de la base** | Automatismes |
+| **Hypothalamus** | Homéostasie et hormones |
+| **Cervelet** | Correction des mouvements |
+| **Tronc cérébral** | Fonctions vitales |
+
+---
+
+# 20. Le résumé à connaître par cœur
+
+### Préfrontal
+
+**Contrôle**
+
+→ attention, inhibition, mémoire de travail, planification, flexibilité.
+
+### Pariétal
+
+**Espace conscient**
+
+→ lésion droite = héminégligence gauche.
+
+### Wernicke
+
+**Comprendre le langage.**
+
+### Broca
+
+**Produire le langage.**
+
+### Hippocampe
+
+**Créer de nouveaux souvenirs**
+
+→ fait + temps + espace.
+
+### Amygdale
+
+**Détecter le danger et générer des émotions négatives.**
+
+### Thalamus
+
+**Relais + conscience**
+
+→ boucles thalamo-corticales.
+
+### Ganglions de la base
+
+**Automatiser**
+
+→ habitudes, mouvements appris, mémoire procédurale.
+
+### Hypothalamus
+
+**Réguler le corps**
+
+→ faim, soif, hormones, stress.
+
+### Cervelet
+
+**Comparer et corriger les mouvements.**
+
+### Tronc cérébral
+
+**Fonctions vitales**
+
+→ éveil, respiration, cœur.
+
+---
+
+# 21. Les associations à utiliser pour mémoriser
+
+**Préfrontal → FREIN**
+
+Je bloque mes pulsions, mes distracteurs et mes comportements inadaptés.
+
+**Hippocampe → HISTOIRE**
+
+Il enregistre l'histoire de ce qui vient de m'arriver.
+
+**Amygdale → ALARME**
+
+Elle détecte rapidement une menace.
+
+**Thalamus → TRI / RELAIS**
+
+Il participe au passage et à la régulation des informations vers le cortex.
+
+**Ganglions de la base → PILOTE AUTOMATIQUE**
+
+Une habitude bien apprise devient automatique.
+
+**Cervelet → CORRECTEUR**
+
+Il détecte et corrige les erreurs de mouvement.
+
+**Hypothalamus → HOMÉOSTASIE**
+
+Il participe au réglage des grandes fonctions internes.
+
+**Tronc cérébral → VITAL**
+
+Respiration, éveil et régulation cardiovasculaire.
+
+Tu préfères maintenant **flashcards**, **QCM d’examen** ou **fiche ultra-courte d’une page** ?

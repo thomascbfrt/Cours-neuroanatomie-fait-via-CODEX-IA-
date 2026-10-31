@@ -1,0 +1,1426 @@
+1. Rappel : comment un neurone déclenche un potentiel d’action
+
+Au repos, le potentiel de membrane du neurone est d’environ :
+
+$$
+V_m \approx -70\ \text{mV}
+$$
+
+Pour déclencher un potentiel d’action, il faut suffisamment dépolariser le neurone pour atteindre le seuil d’excitabilité, environ :
+
+$$
+V_{\text{seuil}}\approx -50\ \text{mV}
+$$
+
+Il faut donc gagner environ :
+
+- 50-(-70)=+20\ \text{mV}
+
+Deux situations sont possibles :
+
+la dépolarisation n’atteint pas \(-50\ \text{mV}\) → le neurone reste silencieux ;
+elle atteint ou dépasse le seuil → un potentiel d’action est généré.
+
+Le potentiel d’action monte ensuite fortement, jusqu’à environ :
+
+$$
++30\ \text{mV}
+$$
+
+Le professeur rappelle surtout quelque chose d’important :
+
+l’information n’est pas codée par l’amplitude des potentiels d’action.
+
+Un potentiel d’action garde pratiquement toujours la même amplitude.
+
+Ce qui varie, c’est leur fréquence.
+
+Plus le neurone reste suffisamment excité, plus il peut produire de potentiels d’action par unité de temps.
+
+À retenir
+
+$$
+\boxed{\text{Codage du message nerveux = codage en fréquence des PA}}
+$$
+
+et non pas en amplitude.
+
+1. Pourquoi un neurone se dépolarise-t-il ?
+
+Un neurone reçoit en permanence des informations provenant d'autres neurones.
+
+Certaines sont :
+
+excitatrices ;
+inhibitrices.
+
+La communication entre deux neurones se fait principalement grâce à la neurotransmission synaptique.
+
+1. La synapse
+
+Une synapse est un élément de communication entre deux cellules, ici entre deux neurones.
+
+On distingue :
+
+Neurone présynaptique
+
+C'est le neurone qui envoie l'information.
+
+« pré » = avant.
+
+Neurone postsynaptique
+
+C'est le neurone qui reçoit l'information.
+
+« post » = après.
+
+Le professeur donne un ordre de grandeur : un neurone peut être connecté à environ 1 000 à 10 000 autres neurones.
+
+Cela conduit à un nombre gigantesque de synapses dans le cerveau, de l'ordre de :
+
+$$
+10^{15}
+$$
+
+1. Structure d'une synapse
+
+On peut la représenter comme ceci :
+
+Neurone présynaptique
+│
+│ potentiel d'action
+↓
+┌───────────────────┐
+│ bouton │
+│ présynaptique │
+│ │
+│ ○ ○ ○ ○ │ ← vésicules
+│ │
+│ mitochondries │
+└────────┬───────────┘
+↓
+neurotransmetteurs
+↓
+
+fente synaptique
+
+↓
+récepteurs
+↓
+┌───────────────────┐
+│ neurone │
+│ postsynaptique │
+└───────────────────┘
+
+Le neurone présynaptique et le neurone postsynaptique ne se touchent donc pas directement.
+
+Entre les deux se trouve :
+
+$$
+\boxed{\text{la fente synaptique}}
+$$
+
+1. Les vésicules de neurotransmetteurs
+
+Dans le compartiment présynaptique se trouvent de petits sacs appelés :
+
+$$
+\boxed{\text{vésicules synaptiques}}
+$$
+
+Ils contiennent des molécules appelées :
+
+neurotransmetteurs ;
+ou neuromédiateurs.
+
+Le professeur utilise les deux termes comme synonymes.
+
+Exemples abordés ensuite :
+
+glutamate ;
+GABA ;
+acétylcholine.
+6. Les récepteurs postsynaptiques
+
+En face des vésicules se trouvent des récepteurs sur la membrane postsynaptique.
+
+Le professeur utilise l'image très importante de la :
+
+clé et de la serrure.
+
+Le neurotransmetteur = clé
+
+Le récepteur = serrure
+
+Il faut que les deux correspondent.
+
+Par exemple :
+
+l'acétylcholine agit sur des récepteurs adaptés à l'acétylcholine ;
+le glutamate agit sur des récepteurs au glutamate ;
+le GABA agit sur des récepteurs au GABA.
+
+Un neurotransmetteur ne peut donc pas activer n'importe quel récepteur.
+
+1. Comment le potentiel d'action provoque la libération des neurotransmetteurs
+
+C'est un mécanisme essentiel du cours.
+
+Étape 1 — arrivée du potentiel d'action
+
+Le potentiel d'action arrive à l'extrémité de l'axone.
+
+Comme son pic atteint environ :
+
+$$
++30\ \text{mV}
+$$
+
+il provoque une très forte dépolarisation de la membrane présynaptique.
+
+Étape 2 — ouverture des canaux calciques
+
+Dans la membrane présynaptique se trouvent des :
+
+$$
+\boxed{\text{canaux calciques voltage-dépendants}}
+$$
+
+Cela signifie qu'ils s'ouvrent en fonction du potentiel électrique de la membrane.
+
+Au repos :
+
+$$
+\text{canal fermé}
+$$
+
+Lorsqu'un potentiel d'action arrive :
+
+$$
+\text{dépolarisation} \Rightarrow \text{ouverture du canal}
+$$
+
+Étape 3 — entrée du calcium
+
+Une fois le canal ouvert :
+
+$$
+Ca^{2+}
+$$
+
+entre dans le neurone présynaptique.
+
+Donc :
+
+$$
+\boxed{ PA \rightarrow \text{dépolarisation} \rightarrow \text{ouverture des canaux }Ca^{2+} \rightarrow \text{entrée de }Ca^{2+} }
+$$
+
+1. Le complexe SNARE et l'exocytose
+
+Les vésicules ne flottent pas simplement au hasard.
+
+Elles sont maintenues près de la membrane grâce à un ensemble de protéines que le professeur appelle le :
+
+$$
+\boxed{\text{complexe SNARE}}
+$$
+
+La vésicule est donc préparée et ancrée près de la membrane.
+
+Le professeur parle également d'une protéine sensible au calcium, la synaptotagmine.
+
+Lorsque le calcium entre :
+
+$$
+Ca^{2+}
+$$
+
+il se fixe sur cette protéine.
+
+Cela provoque une modification du complexe SNARE.
+
+La vésicule est alors attirée contre la membrane.
+
+Les deux membranes fusionnent.
+
+Puis la vésicule libère son contenu.
+
+Ce phénomène s'appelle :
+
+$$
+\boxed{\text{exocytose}}
+$$
+
+Chaîne complète
+
+À vraiment connaître :
+
+$$
+\boxed{ PA \rightarrow \text{dépolarisation} \rightarrow Ca^{2+} \rightarrow SNARE \rightarrow \text{exocytose} \rightarrow \text{libération du neurotransmetteur} }
+$$
+
+On peut l'imaginer comme ceci :
+
+Potentiel d'action
+↓
+Dépolarisation
+↓
+Ouverture canaux Ca²⁺
+↓
+Entrée de Ca²⁺
+↓
+Activation synaptotagmine / SNARE
+↓
+Fusion de la vésicule
+↓
+Exocytose
+↓
+Neurotransmetteur dans la fente
+9. Pourquoi y a-t-il beaucoup de mitochondries dans une synapse ?
+
+Le professeur montre que l'on observe beaucoup de mitochondries près des synapses.
+
+Elles servent à fabriquer :
+
+$$
+\boxed{ATP}
+$$
+
+L'ATP fournit l'énergie nécessaire au fonctionnement cellulaire.
+
+Or la neurotransmission consomme énormément d'énergie.
+
+Le cerveau a donc besoin en permanence :
+
+d'oxygène ;
+de glucose ;
+d'une bonne circulation sanguine.
+
+Le professeur insiste sur le fait que les neurones cérébraux ne disposent pas de grandes réserves énergétiques.
+
+Si l'apport sanguin diminue fortement :
+
+$\text{moins d'oxygène/glucose}$ $\Downarrow$ $\text{moins d'ATP}$ $\Downarrow$ $\text{dysfonctionnement de la neurotransmission}$
+
+Il donne comme exemples :
+
+hypotension ;
+malaise ;
+interruption de l'apport sanguin au cerveau ;
+étranglement au judo.
+10. Exemple du professeur : toxine botulinique
+
+La toxine botulinique perturbe le mécanisme permettant la libération du neurotransmetteur.
+
+Le professeur l'utilise pour montrer à quel point le système SNARE/exocytose est essentiel.
+
+Si la neurotransmission est empêchée :
+
+$$
+\text{PA présent}
+$$
+
+mais
+
+$$
+\text{pas de libération correcte du neurotransmetteur}
+$$
+
+Donc les muscles ne reçoivent plus correctement les commandes nerveuses.
+
+Cela peut provoquer une paralysie.
+
+Si le diaphragme ne peut plus se contracter correctement :
+
+$$
+\text{respiration impossible}
+$$
+
+Le professeur fait ensuite le lien avec le Botox : à très faible dose et localement, on bloque volontairement la neurotransmission vers certains muscles.
+
+Les muscles se contractent moins, ce qui diminue les rides d'expression.
+
+Le professeur précise ensuite que son exemple concernant l'expression et la reconnaissance des émotions est hors cours.
+
+1. Que se passe-t-il du côté postsynaptique ?
+
+Le neurotransmetteur traverse la fente synaptique puis se fixe sur un récepteur.
+
+Certains récepteurs sont des canaux.
+
+La fixation du neurotransmetteur modifie leur forme, ce qui permet à certains ions de passer.
+
+Selon l'ion qui traverse la membrane, deux grandes situations apparaissent.
+
+1. Entrée de charges positives → dépolarisation
+
+Imaginons qu'un canal laisse rentrer des ions positifs, par exemple :
+
+$$
+Na^+
+$$
+
+L'intérieur du neurone est initialement négatif.
+
+Faire rentrer des charges positives rend donc le potentiel moins négatif.
+
+Par exemple :
+
+- 70 \rightarrow -69 \rightarrow -68\ \text{mV}
+
+On se rapproche de :
+
+- 50\ \text{mV}
+
+Il y a donc :
+
+$$
+\boxed{\text{dépolarisation}}
+$$
+
+Cette petite dépolarisation est appelée :
+
+$$
+\boxed{\text{PPSE}}
+$$
+
+PPSE
+
+$$
+\boxed{\text{Potentiel Post-Synaptique Excitateur}}
+$$
+
+Le professeur dit explicitement qu'il faut connaître ce terme.
+
+1. Entrée de charges négatives → hyperpolarisation
+
+Si des ions négatifs entrent, par exemple du chlorure :
+
+$$
+Cl^-
+$$
+
+l'intérieur devient davantage négatif.
+
+Par exemple :
+
+- 70 \rightarrow -71 \rightarrow -72\ \text{mV}
+
+On s'éloigne du seuil de :
+
+- 50\ \text{mV}
+
+Il y a alors :
+
+$$
+\boxed{\text{hyperpolarisation}}
+$$
+
+On obtient un :
+
+$$
+\boxed{\text{PPSI}}
+$$
+
+PPSI
+
+$$
+\boxed{\text{Potentiel Post-Synaptique Inhibiteur}}
+$$
+
+1. L'image à retenir : accélérateur et frein
+
+C'est probablement l'une des meilleures images du cours.
+
+Le professeur compare :
+
+PPSE
+
+à un :
+
+$$
+\boxed{\text{accélérateur}}
+$$
+
+car il rapproche le neurone du seuil.
+
+PPSI
+
+à un :
+
+$$
+\boxed{\text{frein}}
+$$
+
+car il éloigne le neurone du seuil.
+
+SEUIL = -50 mV
+↑
+│
+PPSE ↑ │ accélérateur
+│
+Repos = -70 mV ─────┼────
+│
+PPSI ↓ │ frein
+↓
+15. Taille d'un PPSE par rapport à un potentiel d'action
+
+Le professeur compare directement les deux.
+
+Potentiel d'action
+
+Amplitude de l'ordre de :
+
+$$
+100\ \text{mV}
+$$
+
+Durée approximative :
+
+$$
+1\ \text{ms}
+$$
+
+PPSE
+
+Dans les exercices du professeur :
+
+$$
+\approx 1\ \text{mV}
+$$
+
+Il est donc environ :
+
+$$
+100\times
+$$
+
+plus petit qu'un potentiel d'action.
+
+Mais il dure beaucoup plus longtemps :
+
+$$
+10-50\ \text{ms}
+$$
+
+environ.
+
+Donc :
+
+Potentiel d'action PPSE/PPSI
+Amplitude \(\sim100\) mV \(\sim1\) mV dans les exercices
+Durée \(\sim1\) ms \(\sim10-50\) ms
+Propagation ne s'atténue pratiquement pas s'atténue avec la distance
+
+Le professeur précise qu'en réalité un PPS peut avoir une amplitude variable, mais que dans l'exercice il prend environ 1 mV.
+
+1. Plus il y a de potentiels d'action, plus il y a de neurotransmetteurs
+
+Le professeur développe longuement cette chaîne.
+
+Plus il y a de potentiels d'action présynaptiques :
+
+$$
+\uparrow PA
+$$
+
+plus la membrane présynaptique est sollicitée.
+
+Donc :
+
+$$
+\uparrow \text{ouverture des canaux }Ca^{2+}
+$$
+
+donc :
+
+$$
+\uparrow Ca^{2+}
+$$
+
+donc :
+
+$$
+\uparrow \text{activation du mécanisme SNARE}
+$$
+
+donc :
+
+$$
+\uparrow \text{exocytose}
+$$
+
+donc :
+
+$$
+\boxed{\uparrow \text{neurotransmetteurs libérés}}
+$$
+
+C'est donc le mécanisme faisant le lien entre :
+
+$$
+\boxed{\text{fréquence des PA}}
+$$
+
+et
+
+$$
+\boxed{\text{quantité de neurotransmetteurs libérée}}
+$$
+
+1. Pourquoi faut-il rapidement enlever les neurotransmetteurs ?
+
+Une fois le neurotransmetteur libéré, il ne peut pas rester indéfiniment dans la fente.
+
+Sinon, le récepteur resterait continuellement activé.
+
+On aurait donc :
+
+$$
+\text{signal continu}
+$$
+
+au lieu de pouvoir produire plusieurs signaux distincts.
+
+Le neurotransmetteur doit donc être rapidement éliminé ou récupéré.
+
+Le professeur présente principalement deux systèmes.
+
+1. Transporteurs
+
+Des protéines peuvent récupérer le neurotransmetteur et le ramener vers les cellules.
+
+1. Astrocytes
+
+Les astrocytes, cellules gliales vues précédemment dans le cours, entourent les synapses.
+
+Le professeur les compare à des :
+
+aspirateurs à neurotransmetteurs.
+
+Ils participent à la récupération du glutamate, du GABA, etc.
+
+Cela permet ensuite de réutiliser les molécules pour de nouveaux cycles de neurotransmission.
+
+1. Le neurone fait une somme en permanence
+
+C'est probablement le concept central pour les exercices.
+
+Un neurone reçoit simultanément :
+
+$$
+PPSE
+$$
+
+et
+
+$$
+PPSI
+$$
+
+Il effectue en permanence une sorte de :
+
+$$
+\boxed{\text{somme algébrique}}
+$$
+
+C'est-à-dire :
+
+$$
+\text{excitation} - \text{inhibition}
+$$
+
+Si le résultat permet de passer de :
+
+- 70\ \text{mV}
+
+à :
+
+- 50\ \text{mV}
+
+le neurone atteint le seuil.
+
+Alors :
+
+$$
+\boxed{\text{potentiel d'action}}
+$$
+
+Sinon :
+
+$$
+\boxed{\text{rien}}
+$$
+
+1. Sommation temporelle
+
+Imaginons un seul neurone A connecté à B.
+
+A produit un potentiel d'action.
+
+Cela provoque chez B un PPSE :
+
+- 70\rightarrow -69\ \text{mV}
+
+Puis le potentiel revient vers \(-70\).
+
+Si le prochain potentiel d'action arrive 5 secondes plus tard, le premier PPSE a disparu.
+
+Il n'y a donc pratiquement pas de sommation.
+
+Mais si A envoie plusieurs potentiels d'action très rapprochés :
+
+PA PA PA PA
+│ │ │ │
+↓ ↓ ↓ ↓
+PPSE PPSE PPSE PPSE
+\***\***\___/
+addition
+
+les PPSE n'ont pas le temps de disparaître.
+
+Ils se superposent.
+
+C'est :
+
+$$
+\boxed{\text{sommation temporelle}}
+$$
+
+Pourquoi « temporelle » ?
+
+Parce que les signaux viennent de la même synapse, mais très rapprochés dans le temps.
+
+1. Combien de PPSE pour déclencher un PA ?
+
+Dans l'exemple du professeur :
+
+$$
+V_{\text{repos}}=-70\ \text{mV}
+$$
+
+et :
+
+$$
+V_{\text{seuil}}=-50\ \text{mV}
+$$
+
+Il manque :
+
+$$
+20\ \text{mV}
+$$
+
+Si chaque PPSE vaut :
+
+$$
++1\ \text{mV}
+$$
+
+il faut environ :
+
+$$
+\boxed{20\ PPSE}
+$$
+
+quasi simultanés.
+
+Parce que :
+
+- 70+20=-50\ \text{mV}
+1. Sommation spatiale
+
+Cette fois-ci, ce ne sont pas plusieurs PA venant de la même synapse.
+
+Plusieurs neurones différents activent différentes synapses au même moment.
+
+Neurone A ───┐
+Neurone B ───┤
+Neurone C ───┤
+Neurone D ───┤→ neurone cible
+Neurone E ───┘
+
+Les différents PPSE arrivent simultanément.
+
+Ils s'additionnent.
+
+C'est :
+
+$$
+\boxed{\text{sommation spatiale}}
+$$
+
+Pourquoi « spatiale » ?
+
+Parce qu'ils proviennent de plusieurs endroits différents de la cellule.
+
+1. Dans la réalité : sommation spatio-temporelle
+
+Dans le cerveau réel, les deux phénomènes se produisent en même temps.
+
+Il y a :
+
+plusieurs synapses ;
+plusieurs potentiels d'action ;
+différents instants ;
+des PPSE ;
+des PPSI.
+
+Le neurone réalise donc une :
+
+$$
+\boxed{\text{sommation spatio-temporelle}}
+$$
+
+1. Exemple d'exercice du professeur
+
+Supposons qu'il faille :
+
+$$
++20\ \text{mV}
+$$
+
+pour atteindre le seuil.
+
+Mais trois synapses inhibitrices sont actives.
+
+Chacune provoque par exemple :
+
+- 2\ \text{mV}
+
+Donc :
+
+- 2-2-2=-6\ \text{mV}
+
+Il faut compenser les \(-6\) mV puis encore gagner \(+20\) mV.
+
+Donc :
+
+$$
+20+6=26
+$$
+
+Il faut donc :
+
+$$
+\boxed{26\ PPSE}
+$$
+
+de \(1\ \text{mV}\).
+
+Vérification :
+
+- $-70-6+26$ $=-50\ \text{mV}$
+
+Le seuil est atteint.
+
+1. Différence essentielle : PA et PPS
+
+Le professeur insiste sur cette différence.
+
+Potentiel d'action
+
+Il se propage le long de l'axone sans perdre significativement son amplitude.
+
+Son amplitude reste pratiquement identique du début à la fin de l'axone.
+
+PPSE/PPSI
+
+Ils s'atténuent avec la distance.
+
+Une synapse très éloignée du site où le potentiel d'action va être déclenché aura donc moins d'effet qu'une synapse très proche.
+
+Synapse éloignée
+↓
+───── dendrite ─────────────→ site d'initiation
+fort PPSE petit PPSE restant
+
+Donc :
+
+$$
+\boxed{\text{plus la distance augmente, plus le PPS s'atténue}}
+$$
+
+1. Synapse glutamatergique
+
+Le glutamate est présenté comme un neurotransmetteur principalement :
+
+$$
+\boxed{\text{excitateur}}
+$$
+
+Les neurones glutamatergiques peuvent notamment établir des connexions à longue distance.
+
+Fonctionnement général
+
+La mécanique reste la même :
+
+$PA$ $\Downarrow$ $Ca^{2+}$ $\Downarrow$ $SNARE$ $\Downarrow$ $\text{exocytose}$ $\Downarrow$ $\text{glutamate}$
+
+Le glutamate se fixe ensuite sur ses récepteurs.
+
+1. Récepteurs au glutamate
+
+Le professeur évoque trois grandes catégories.
+
+La retranscription est mauvaise sur certains noms, mais on entend clairement notamment :
+
+un premier récepteur ionique correspondant vraisemblablement à AMPA ;
+NMDA ;
+un récepteur couplé aux protéines G dont le nom est mal retranscrit.
+
+Le mécanisme particulièrement développé pendant le cours est celui du récepteur NMDA.
+
+1. Le récepteur NMDA et le bouchon au magnésium
+
+C'est un mécanisme particulier.
+
+Lorsque le neurone postsynaptique est au repos et relativement négatif, un ion magnésium :
+
+$$
+Mg^{2+}
+$$
+
+vient bloquer le canal NMDA.
+
+Le professeur appelle cela :
+
+le bouchon au magnésium.
+
+NMDA
+┌────────┐
+───────┤ Mg²⁺ X │───────
+└────────┘
+bloqué
+
+Même si du glutamate est présent, le canal reste donc bloqué.
+
+Si la cellule postsynaptique est dépolarisée
+
+Lorsque la cellule devient suffisamment positive, le professeur explique que les charges positives repoussent le magnésium.
+
+Le bouchon sort.
+
+Dépolarisation
+↓
+Mg²⁺ quitte le canal
+↓
+NMDA ouvert
+↓
+Ca²⁺ peut passer
+
+Du calcium peut alors entrer.
+
+Le professeur précise que ce calcium déclenche ensuite toute une cascade impliquée notamment dans :
+
+$$
+\boxed{\text{la mémoire}}
+$$
+
+Ce mécanisme sera probablement développé dans un autre cours.
+
+1. Synapse GABAergique
+
+Cette fois, le neurotransmetteur est :
+
+$$
+\boxed{GABA}
+$$
+
+La première partie reste exactement la même :
+
+$$
+PA \rightarrow Ca^{2+} \rightarrow SNARE \rightarrow \text{exocytose} \rightarrow GABA
+$$
+
+Le GABA se fixe notamment sur des récepteurs laissant passer des ions chlorure :
+
+$$
+Cl^-
+$$
+
+La cellule se rapproche alors d'un potentiel plus négatif, autour de :
+
+- 80\ \text{mV}
+
+dans l'explication du professeur.
+
+Donc :
+
+$$
+\boxed{\text{hyperpolarisation}}
+$$
+
+et donc :
+
+$$
+\boxed{PPSI}
+$$
+
+1. Glutamate vs GABA
+
+La comparaison à retenir :
+
+Glutamate GABA
+principalement excitateur principalement inhibiteur
+génère des PPSE génère des PPSI
+rapproche du seuil éloigne du seuil
+accélérateur frein
+
+Le cerveau fonctionne constamment avec les deux.
+
+1. Équilibre excitation / inhibition
+
+Le professeur donne une image très simple :
+
+le cerveau possède en permanence un accélérateur et un frein.
+
+L'activité cérébrale dépend de l'équilibre entre :
+
+$$
+\boxed{\text{excitation}}
+$$
+
+et
+
+$$
+\boxed{\text{inhibition}}
+$$
+
+Un réseau excitateur peut également activer des neurones inhibiteurs.
+
+Ces neurones inhibiteurs empêchent alors l'excitation de devenir excessive.
+
+Cela crée une sorte de :
+
+$$
+\boxed{\text{barrage inhibiteur}}
+$$
+
+1. État d'éveil et sommeil
+
+Le professeur fait le lien avec l'état général du cerveau.
+
+Lorsque le cortex est davantage inhibé, comme pendant certaines phases de sommeil, certaines fonctions cognitives et d'apprentissage ne peuvent pas fonctionner comme pendant un état d'éveil attentif.
+
+Pendant la journée, le cerveau oscille constamment entre différents niveaux :
+
+d'excitation ;
+d'inhibition.
+
+Le fonctionnement normal dépend donc d'un équilibre.
+
+1. Que se passe-t-il si le frein inhibiteur ne fonctionne plus ?
+
+Si l'excitation devient beaucoup trop importante et que l'inhibition n'arrive plus à la contrôler, l'activité neuronale peut s'emballer.
+
+Le professeur introduit alors :
+
+$$
+\boxed{\text{l'épilepsie}}
+$$
+
+Dans son modèle simplifié :
+
+$$
+\text{PPSE trop importants}
+$$
+
+et/ou
+
+$$
+\text{PPSI trop faibles}
+$$
+
+Donc :
+
+$$
+\boxed{ \text{trop d'accélérateur} + \text{pas assez de frein} }
+$$
+
+Le seuil est alors atteint beaucoup trop facilement.
+
+1. Crise focale
+
+Si l'activité épileptique concerne seulement une région du cerveau :
+
+$$
+\boxed{\text{crise focale}}
+$$
+
+Les symptômes dépendent alors de la zone concernée.
+
+Région visuelle
+
+Peut provoquer des phénomènes visuels ou hallucinations visuelles.
+
+Région motrice
+
+Peut provoquer des mouvements involontaires, notamment du côté opposé du corps.
+
+Région auditive
+
+Peut provoquer des phénomènes auditifs.
+
+Le professeur montre plusieurs exemples vidéo pour faire comprendre que :
+
+les symptômes d'une crise dépendent du réseau cérébral touché.
+
+1. Crises avec rire
+
+Le professeur évoque également des crises pouvant provoquer un rire automatique particulier.
+
+Il appelle cela :
+
+$$
+\boxed{\text{crises gélastiques}}
+$$
+
+Il précise qu'il ne s'agit pas forcément d'un rire lié à une émotion joyeuse.
+
+C'est davantage une production motrice automatique.
+
+1. Propagation d'une crise
+
+Au départ, une petite région peut devenir épileptogène.
+
+Autour, les neurones inhibiteurs essayent de contenir l'activité.
+
+On peut l'imaginer ainsi :
+
+inhibition
+┌───────────────┐
+│ ███████ │
+│ █ CRISE █ │
+│ ███████ │
+└───────────────┘
+inhibition
+
+Tant que le barrage inhibiteur tient :
+
+$$
+\text{activité localisée}
+$$
+
+Si l'excitation devient trop forte :
+
+$$
+\text{barrage dépassé}
+$$
+
+et la crise peut se propager à d'autres régions.
+
+1. Crise généralisée
+
+Si la propagation implique suffisamment de réseaux, notamment les circuits permettant de synchroniser de grandes régions des deux hémisphères, la crise peut devenir :
+
+$$
+\boxed{\text{généralisée}}
+$$
+
+Contrairement à la crise focale :
+
+Crise focale
+
+$$
+\text{une partie du cerveau}
+$$
+
+Crise généralisée
+
+$$
+\text{grandes régions des deux côtés du cerveau}
+$$
+
+Le professeur montre alors des activités synchronisées sur l'enregistrement EEG et des mouvements bilatéraux.
+
+1. Pourquoi l'inhibition peut-elle devenir insuffisante ?
+
+Le professeur donne plusieurs mécanismes possibles.
+
+Lors de certaines pathologies :
+
+des récepteurs GABA peuvent être moins disponibles ;
+certains peuvent être internalisés dans la cellule ;
+des mécanismes contrôlant les ions, notamment le chlorure, peuvent être perturbés.
+
+Le PPSI devient alors beaucoup moins efficace.
+
+1. Origines possibles de certaines épilepsies
+
+Le professeur distingue notamment plusieurs possibilités.
+
+Origines génétiques
+
+Par exemple :
+
+mutations de canaux ioniques ;
+anomalies modifiant l'excitabilité des neurones.
+Anomalies du développement cérébral
+
+Certaines organisations anormales du tissu cérébral peuvent favoriser l'apparition de crises.
+
+Causes acquises
+
+Le professeur cite notamment :
+
+traumatismes ;
+certaines convulsions importantes de l'enfance ;
+tumeurs ;
+problèmes vasculaires.
+39. Photosensibilité et exemple Pokémon
+
+Le professeur précise quelque chose d'important :
+
+les flashs lumineux ne provoquent pas toutes les formes d'épilepsie.
+
+Certaines formes impliquant les circuits visuels peuvent être particulièrement sensibles à certaines stimulations lumineuses.
+
+Il cite alors l'exemple célèbre d'un épisode de Pokémon diffusé au Japon dont certaines séquences lumineuses ont déclenché des crises chez des enfants prédisposés.
+
+Son idée est :
+
+$$
+\boxed{\text{la stimulation ne crée pas nécessairement l'épilepsie}}
+$$
+
+mais elle peut déclencher une crise chez certaines personnes sensibles.
+
+1. Principe des traitements expliqué par le professeur
+
+Si le problème simplifié est :
+
+$$
+\text{excitation trop forte}
+$$
+
+et :
+
+$$
+\text{inhibition trop faible}
+$$
+
+on peut essayer pharmacologiquement de faire l'inverse.
+
+Stratégie 1 — réduire l'excitation
+
+Diminuer l'action du système glutamatergique.
+
+Donc :
+
+$$
+\downarrow PPSE
+$$
+
+Stratégie 2 — augmenter l'inhibition
+
+Renforcer l'activité GABAergique.
+
+Donc :
+
+$$
+\uparrow PPSI
+$$
+
+Le professeur mentionne également des stratégies pouvant agir sur :
+
+la quantité de GABA libérée ;
+la transmission glutamatergique ;
+la quantité de neurotransmetteur disponible.
+La grande chaîne à connaître par cœur
+
+Si tu dois retenir une seule chaîne de tout le début du cours :
+
+$$
+\boxed{ PA \rightarrow \text{dépolarisation présynaptique} \rightarrow \text{ouverture }Ca^{2+} \rightarrow Ca^{2+}\text{ entre} \rightarrow SNARE \rightarrow \text{exocytose} \rightarrow \text{neurotransmetteur} \rightarrow \text{récepteur postsynaptique} \rightarrow PPSE/PPSI }
+$$
+
+Puis :
+
+$$
+\boxed{ \sum PPSE+\sum PPSI \rightarrow \text{comparaison au seuil} }
+$$
+
+Si :
+
+$$
+V_m\geq -50\ \text{mV}
+$$
+
+alors :
+
+$$
+\boxed{PA}
+$$
+
+sinon :
+
+$$
+\boxed{\text{pas de PA}}
+$$
+
+HORS COURS — Ce qui me paraît très probable au CC
+
+Je distingue ici ce que le professeur indique explicitement de ce que je considère simplement très logique à apprendre d'après son insistance.
+
+🔴 Priorité 1 — quasiment certain à savoir
+PPSE et PPSI
+
+Le professeur dit explicitement pour le PPSE :
+
+« ça, il faut le connaître ».
+
+Donc sache immédiatement :
+
+$\boxed{PPSE=\text{Potentiel Post-Synaptique Excitateur}}$ $\boxed{PPSI=\text{Potentiel Post-Synaptique Inhibiteur}}$
+
+Et surtout :
+
+PPSE → dépolarisation → rapproche du seuil
+PPSI → hyperpolarisation → éloigne du seuil
+Calculer si le neurone atteint le seuil
+
+C'est très important, car le professeur dit explicitement que ce type d'exercice peut tomber.
+
+Exemple :
+
+$V_{\text{repos}}=-70$ $V_{\text{seuil}}=-50$
+
+Il faut :
+
+$$
++20\ \text{mV}
+$$
+
+Si :
+
+$$
+1 PPSE=+1\ \text{mV}
+$$
+
+alors :
+
+$$
+20 PPSE
+$$
+
+sont nécessaires.
+
+Avec \(6\) mV d'inhibition :
+
+$$
+20+6=26
+$$
+
+Donc :
+
+$$
+\boxed{26 PPSE}
+$$
+
+🔴 Priorité 2 — Sommations
+
+Savoir distinguer immédiatement :
+
+temporelle
+UNE synapse
++
+plusieurs PA rapprochés
+spatiale
+PLUSIEURS synapses
++
+signaux simultanés
+réelle
+
+$$
+\boxed{\text{sommation spatio-temporelle}}
+$$
+
+🔴 Priorité 3 — Chaîne de neurotransmission
+
+Être capable de remettre dans l'ordre :
+
+potentiel d'action ;
+dépolarisation ;
+ouverture des canaux calciques ;
+entrée de \(Ca^{2+}\) ;
+activation du mécanisme SNARE ;
+exocytose ;
+libération du neurotransmetteur ;
+fixation sur le récepteur ;
+passage d'ions ;
+PPSE ou PPSI.
+🟠 Priorité 4 — Excitateur contre inhibiteur
+
+Probablement connaître :
+
+$$
+\boxed{\text{glutamate → excitateur → PPSE}}
+$$
+
+et :
+
+$$
+\boxed{\text{GABA → inhibiteur → PPSI}}
+$$
+
+Ainsi que l'image :
+
+Glutamate = accélérateur
+GABA = frein
+🟠 Priorité 5 — PA vs PPS
+
+Très bonne question potentielle de cours :
+
+PA PPS
+grande amplitude petite amplitude
+\(\sim100\) mV \(\sim1\) mV dans les exercices
+rapide plus lent
+ne s'atténue pratiquement pas s'atténue avec la distance
+tout-ou-rien amplitude variable
+🟠 Priorité 6 — NMDA
+
+À connaître au moins conceptuellement :
+
+cellule au repos
+↓
+Mg²⁺ bouche NMDA
+↓
+pas d'entrée de Ca²⁺
+
+mais :
+
+dépolarisation
+↓
+Mg²⁺ quitte NMDA
+↓
+Ca²⁺ entre
+↓
+cascade cellulaire
+↓
+mémoire
+🟡 À comprendre mais probablement moins central pour un exercice
+mitochondries et ATP ;
+astrocytes et récupération des neurotransmetteurs ;
+toxine botulinique ;
+récepteurs spécifiques « clé-serrure » ;
+épilepsie focale contre généralisée ;
+déséquilibre excitation/inhibition ;
+stratégies pharmacologiques générales.
+
+Les vidéos d'épilepsie, le Botox, l'exemple Pokémon et les anecdotes du professeur servent surtout à faire comprendre les mécanismes plutôt qu'à fournir des calculs.
+
+Mini-fiche « si le CC était demain »
+
+À connaître presque par cœur :
+
+$\boxed{-70\ \text{mV}=\text{repos}}$ $\boxed{-50\ \text{mV}=\text{seuil}}$ $\boxed{PPSE=\text{excitation}}$ $\boxed{PPSI=\text{inhibition}}$ $\boxed{PA\rightarrow Ca^{2+}\rightarrow SNARE\rightarrow exocytose}$ $\boxed{\text{Glutamate}\rightarrow PPSE}$ $\boxed{\text{GABA}\rightarrow PPSI}$ $\boxed{\text{sommation temporelle}=\text{même synapse dans le temps}}$ $\boxed{\text{sommation spatiale}=\text{plusieurs synapses}}$
+
+et :
+
+$$
+\boxed{ \sum PPSE+\sum PPSI \geq20\ \text{mV} \Rightarrow PA }
+$$
+
+dans le modèle d'exercice utilisé par le professeur.

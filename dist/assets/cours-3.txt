@@ -1,0 +1,531 @@
+# 🧠 Neurones, cellules gliales et potentiel d’action
+
+## 1. Organisation générale du neurone
+
+Le cerveau contient environ **90 milliards de neurones**. Un neurone peut être divisé en plusieurs compartiments ayant chacun une fonction précise.
+
+### 1.1 Les dendrites : réception de l’information
+
+Les **dendrites** sont des prolongements très ramifiés du neurone.
+
+Leur rôle principal est de :
+
+> **recevoir les informations provenant des autres neurones.**
+> 
+
+Les synapses excitatrices et inhibitrices arrivent notamment à leur niveau.
+
+On trouve sur certaines dendrites de petites protubérances appelées **épines dendritiques**, qui participent aux synapses.
+
+La quantité de ramifications dépend de la fonction du neurone : un neurone devant intégrer énormément d’informations possède beaucoup plus de dendrites.
+
+---
+
+### 1.2 Le soma : vie et intégration de la cellule
+
+Le **soma**, ou **corps cellulaire**, contient notamment le noyau.
+
+Le noyau contient l’**ADN**.
+
+Le fonctionnement général est :
+
+**ADN → ARN → protéines**
+
+Les protéines permettent :
+
+- de remplacer les anciennes protéines ;
+- d'entretenir la cellule ;
+- de mettre en place de nouveaux mécanismes.
+
+Le soma reçoit également les signaux provenant des dendrites et participe à leur **intégration**.
+
+---
+
+### 1.3 Le segment initial : naissance du potentiel d’action
+
+Entre le soma et le début de l’axone se trouve une région particulière :
+
+> **le segment initial de l’axone.**
+> 
+
+C’est principalement à cet endroit que se déclenche le **potentiel d’action (PA)**.
+
+Cette zone contient une très forte densité de **canaux sodiques voltage-dépendants**.
+
+---
+
+### 1.4 L’axone : propagation de l’information
+
+Contrairement aux dendrites, un neurone possède **un seul axone**, même si celui-ci peut ensuite se ramifier énormément.
+
+Le potentiel d’action se propage le long de cet axone jusqu’aux **terminaisons synaptiques**.
+
+Certains axones peuvent être extrêmement longs, par exemple ceux reliant le cortex moteur à la moelle épinière.
+
+---
+
+### 1.5 Les terminaisons synaptiques
+
+L’axone se divise progressivement en nombreux embranchements.
+
+Un neurone peut communiquer avec environ **1 000 à 10 000 autres neurones**.
+
+Les terminaisons permettent la communication avec les cellules suivantes, notamment grâce à la libération de **neuromédiateurs**.
+
+### À retenir
+
+Le fonctionnement du neurone suit donc :
+
+**Réception → Intégration → Genèse du PA → Propagation → Communication**
+
+---
+
+# 2. Les cellules gliales
+
+Le cerveau contient environ autant de **cellules gliales** que de neurones, soit environ **90 milliards**.
+
+Contrairement aux neurones, certaines cellules gliales conservent la capacité de se multiplier.
+
+Trois grandes catégories sont étudiées ici.
+
+## 2.1 Les astrocytes
+
+Les **astrocytes** sont en contact avec :
+
+- les vaisseaux sanguins ;
+- les neurones ;
+- les synapses.
+
+Ils participent notamment à l'apport énergétique des neurones : ils récupèrent notamment le **glucose** provenant du sang et participent à son transfert vers les neurones.
+
+Ils participent également à la **barrière hématoencéphalique**, qui protège le cerveau contre certaines substances toxiques et certains agents infectieux présents dans le sang.
+
+Enfin, ils participent à la **régulation de la transmission synaptique**.
+
+---
+
+## 2.2 Les oligodendrocytes
+
+Les **oligodendrocytes** s’enroulent autour des axones pour former la **gaine de myéline**.
+
+La myéline est riche en lipides et agit comme un isolant électrique.
+
+Elle permet surtout :
+
+> **d’accélérer la propagation du potentiel d’action.**
+> 
+
+---
+
+## 2.3 Les cellules microgliales
+
+Les **cellules microgliales** jouent un rôle de surveillance et de défense.
+
+Elles peuvent se déplacer dans le tissu nerveux pour :
+
+- détecter des lésions ou infections ;
+- éliminer des débris cellulaires ;
+- participer à la réponse inflammatoire.
+
+---
+
+# 3. Le potentiel de membrane
+
+Si on mesure la différence de potentiel entre l’intérieur et l’extérieur d’un neurone au repos, on constate que :
+
+> **l’intérieur du neurone est plus négatif que l’extérieur.**
+> 
+
+Le potentiel de repos d’un neurone est environ :
+
+−70 mV\boxed{-70\ \text{mV}}
+
+La membrane est donc dite **polarisée**.
+
+---
+
+# 4. Polarisation, dépolarisation et hyperpolarisation
+
+Il faut bien connaître ces trois situations.
+
+### Dépolarisation
+
+Le potentiel devient **moins négatif** que −70 mV.
+
+Exemple :
+
+−70→−60→−50 mV-70 \rightarrow -60 \rightarrow -50\ \text{mV}
+
+La différence entre intérieur et extérieur diminue.
+
+### Repolarisation
+
+Après une dépolarisation, le potentiel revient vers son potentiel de repos :
+
+→−70 mV\rightarrow -70\ \text{mV}
+
+### Hyperpolarisation
+
+Le potentiel devient **plus négatif que le potentiel de repos**.
+
+Exemple :
+
+−70→−80 mV-70 \rightarrow -80\ \text{mV}
+
+La différence de charges entre l’intérieur et l’extérieur est donc accentuée.
+
+---
+
+# 5. Pourquoi les ions ne traversent-ils pas librement la membrane ?
+
+La membrane cellulaire est constituée d’une **bicouche lipidique**.
+
+Les ions étant chargés, ils ne peuvent pas la traverser librement.
+
+Ils doivent passer à travers des protéines membranaires :
+
+> **les canaux ioniques.**
+> 
+
+---
+
+# 6. Répartition des ions
+
+Les ions ne sont pas répartis de la même manière de chaque côté de la membrane.
+
+### Sodium Na⁺
+
+Il y en a beaucoup :
+
+> **à l’extérieur du neurone.**
+> 
+
+### Potassium K⁺
+
+Il y en a beaucoup :
+
+> **à l’intérieur du neurone.**
+> 
+
+Cette différence de concentration produit notamment une **force chimique**.
+
+---
+
+# 7. Les deux forces agissant sur les ions
+
+Un ion est soumis à deux grandes forces.
+
+## Gradient chimique
+
+Un ion tend à aller :
+
+> **du milieu où il est le plus concentré vers celui où il est le moins concentré.**
+> 
+
+## Gradient électrique
+
+Les charges opposées s’attirent :
+
+- une charge positive est attirée par les charges négatives ;
+- une charge négative est attirée par les charges positives.
+
+Un ion subit donc à la fois :
+
+force chimique + force eˊlectrique\boxed{\text{force chimique + force électrique}}
+
+---
+
+# 8. Potentiel d’équilibre d’un ion
+
+Prenons le potassium K⁺.
+
+Il est très concentré à l’intérieur de la cellule et peu concentré à l’extérieur.
+
+Si un canal à potassium s’ouvre :
+
+K+→sort de la celluleK^+ \rightarrow \text{sort de la cellule}
+
+Au début, le gradient chimique pousse fortement K⁺ vers l’extérieur.
+
+Mais chaque K⁺ qui sort laisse progressivement l’intérieur plus négatif.
+
+Cette charge négative attire alors les ions K⁺ vers l’intérieur.
+
+À un moment :
+
+force chimique=force eˊlectrique\text{force chimique}=\text{force électrique}
+
+On atteint le **potentiel d’équilibre de l’ion**.
+
+Ces potentiels peuvent être calculés grâce à **l’équation de Nernst**.
+
+### Valeurs à connaître dans le cours
+
+| Ion | Potentiel d’équilibre approximatif |
+| --- | --- |
+| **K⁺** | **−90 mV** |
+| **Na⁺** | **+60 mV** |
+| **Cl⁻** | **≈ −80 mV** |
+| **Ca²⁺** | **≈ +100 mV** |
+
+Ainsi :
+
+- ouvrir un canal K⁺ attire le potentiel vers **−90 mV** ;
+- ouvrir un canal Na⁺ attire vers **+60 mV** ;
+- ouvrir un canal Ca²⁺ attire vers une valeur très positive.
+
+---
+
+# 9. Origine du potentiel de repos
+
+Pourquoi le neurone est-il environ à **−70 mV** ?
+
+Il possède des **canaux de fuite**, ouverts en permanence.
+
+Il y a énormément de :
+
+> **canaux potassiques de fuite.**
+> 
+
+Le potassium sort donc de la cellule, ce qui attire fortement le potentiel vers :
+
+−90 mV-90\ \text{mV}
+
+Mais il existe également quelques canaux laissant entrer du sodium.
+
+Le sodium attire le potentiel vers :
+
++60 mV+60\ \text{mV}
+
+Comme la membrane est beaucoup plus perméable au potassium qu’au sodium, le résultat est proche du potentiel du potassium :
+
+Vrepos≈−70 mV\boxed{V_{repos}\approx -70\ \text{mV}}
+
+---
+
+# 10. La pompe Na⁺/K⁺
+
+Si K⁺ sortait continuellement et Na⁺ entrait continuellement, leurs concentrations finiraient par s’égaliser.
+
+Une pompe permet donc de maintenir les gradients :
+
+> **la pompe sodium-potassium.**
+> 
+
+Elle utilise de l’énergie sous forme d’**ATP**.
+
+À chaque cycle :
+
+3 Na+ sortent\boxed{3\,Na^+\ sortent}
+
+et
+
+2 K+ entrent\boxed{2\,K^+\ entrent}
+
+Elle maintient donc à long terme les différences de concentration entre l’intérieur et l’extérieur.
+
+---
+
+# 11. Le potentiel d’action
+
+Le **potentiel d’action** est un signal électrique :
+
+- très rapide : environ **1 ms** ;
+- de forte amplitude : environ **100 mV** ;
+- d’amplitude fixe.
+
+Le potentiel de repos est environ :
+
+−70 mV-70\ \text{mV}
+
+Le seuil d’excitabilité est environ :
+
+−50 mV\boxed{-50\ \text{mV}}
+
+Si la dépolarisation n’atteint pas le seuil :
+
+> **pas de potentiel d’action.**
+> 
+
+Si elle atteint ou dépasse le seuil :
+
+> **un potentiel d’action est déclenché.**
+> 
+
+C’est la loi du :
+
+tout ou rien\boxed{\text{tout ou rien}}
+
+---
+
+# 12. Codage de l’intensité
+
+Un stimulus plus puissant ne produit pas un potentiel d’action plus grand.
+
+L’amplitude du PA reste identique.
+
+Ce qui augmente, c’est :
+
+> **la fréquence des potentiels d’action.**
+> 
+
+Donc :
+
+intensiteˊ du stimulus→freˊquence des PA\boxed{\text{intensité du stimulus}\rightarrow\text{fréquence des PA}}
+
+Par exemple, un stimulus douloureux faible entraîne peu de PA, alors qu'un stimulus beaucoup plus important entraîne beaucoup plus de PA par seconde.
+
+---
+
+# 13. Mécanisme du potentiel d’action
+
+Le potentiel d’action repose principalement sur deux types de canaux :
+
+- canaux Na⁺ voltage-dépendants ;
+- canaux K⁺ voltage-dépendants.
+
+Contrairement aux canaux de fuite, ils peuvent **s’ouvrir et se fermer**.
+
+## Phase 1 — Dépolarisation
+
+Les canaux Na⁺ voltage-dépendants s’ouvrent.
+
+Na+→entreNa^+ \rightarrow \text{entre}
+
+L’intérieur devient rapidement plus positif.
+
+➡️ **Montée du potentiel d’action.**
+
+## Phase 2 — Repolarisation
+
+Avec un léger décalage, les canaux K⁺ voltage-dépendants s’ouvrent.
+
+K+→sortK^+ \rightarrow \text{sort}
+
+Le potentiel redevient négatif.
+
+➡️ **Repolarisation.**
+
+Le décalage entre l’ouverture des canaux Na⁺ et K⁺ permet au potentiel d’action d’avoir une forte amplitude.
+
+---
+
+# 14. Propagation du potentiel d’action
+
+Une fois créé au **segment initial**, le potentiel d’action se propage le long de l’axone.
+
+Sur les axones myélinisés, les canaux nécessaires au PA sont particulièrement concentrés dans les espaces entre deux zones de myéline :
+
+> **les nœuds de Ranvier.**
+> 
+
+Le potentiel d’action semble alors passer d’un nœud au suivant :
+
+conduction saltatoire\boxed{\text{conduction saltatoire}}
+
+La myéline permet donc d'accélérer fortement la conduction.
+
+La vitesse varie selon les neurones : certains neurones moteurs peuvent conduire très rapidement, alors que certaines fibres impliquées dans la douleur conduisent beaucoup plus lentement.
+
+---
+
+# 15. Blocage des potentiels d’action
+
+Comprendre les canaux permet de comprendre l’action de certaines substances.
+
+### Lidocaïne
+
+La **lidocaïne**, utilisée comme anesthésique local notamment en dentisterie, bloque les :
+
+> **canaux sodiques voltage-dépendants.**
+> 
+
+Conséquence :
+
+blocage Na+→pas de PA→pas de transmission du message douloureux\text{blocage Na}^+ \rightarrow \text{pas de PA} \rightarrow \text{pas de transmission du message douloureux}
+
+Le cerveau ne reçoit donc plus le signal de douleur provenant de la zone anesthésiée.
+
+---
+
+### Tétrodotoxine
+
+La **tétrodotoxine (TTX)** bloque également les canaux Na⁺ voltage-dépendants.
+
+Si les potentiels d’action sont bloqués :
+
+- les neurones ne transmettent plus correctement les informations ;
+- les muscles ne peuvent plus être commandés normalement ;
+- la respiration peut notamment être compromise.
+
+Plusieurs animaux utilisent des toxines agissant sur les canaux ioniques afin d’immobiliser leurs proies.
+
+---
+
+# 16. Enregistrement de l’activité neuronale
+
+Deux méthodes sont évoquées pour mesurer directement l’activité électrique des neurones.
+
+### Microélectrodes intracellulaires
+
+Une électrode très fine est introduite dans une cellule.
+
+Lorsque les deux électrodes sont à l’extérieur :
+
+ΔV≈0\Delta V \approx 0
+
+Lorsque l’une pénètre dans un neurone :
+
+ΔV≈−70 mV\Delta V\approx -70\ \text{mV}
+
+On mesure ainsi directement le potentiel de membrane.
+
+### Patch-clamp
+
+Le **patch-clamp** est une méthode plus moderne permettant notamment :
+
+- de contrôler le potentiel de membrane ;
+- d'étudier les canaux ioniques ;
+- parfois d'étudier l’activité d’un canal particulier.
+
+---
+
+# 17. Enregistrement de populations de neurones
+
+On peut également placer des électrodes **extracellulaires** qui enregistrent l’activité de plusieurs neurones sans les pénétrer individuellement.
+
+Ces techniques permettent d'étudier l'activité de populations de neurones pendant :
+
+- des mouvements ;
+- des stimulations sensorielles ;
+- différentes tâches.
+
+Les grandes quantités de signaux enregistrées peuvent ensuite être analysées pour rechercher des **motifs d’activité neuronale** associés à certaines fonctions.
+
+---
+
+# ⭐ L’essentiel à mémoriser
+
+| Notion | À retenir |
+| --- | --- |
+| **Dendrites** | réception |
+| **Soma** | vie cellulaire + intégration |
+| **Segment initial** | création du PA |
+| **Axone** | propagation |
+| **Terminaisons** | communication |
+| **Astrocytes** | énergie, barrière, synapses |
+| **Oligodendrocytes** | myéline |
+| **Microglie** | surveillance/nettoyage |
+| **Potentiel de repos** | **−70 mV** |
+| **Seuil** | **≈ −50 mV** |
+| **K⁺** | surtout dedans ; équilibre ≈ **−90 mV** |
+| **Na⁺** | surtout dehors ; équilibre ≈ **+60 mV** |
+| **Dépolarisation du PA** | **entrée Na⁺** |
+| **Repolarisation du PA** | **sortie K⁺** |
+| **PA** | tout ou rien, ≈ **100 mV**, ≈ **1 ms** |
+| **Intensité du signal** | codée par la **fréquence des PA** |
+| **Myéline** | accélère la conduction |
+| **Nœuds de Ranvier** | conduction saltatoire |
+| **Pompe Na⁺/K⁺** | **3 Na⁺ sortent / 2 K⁺ entrent** |
+
+Si tu veux, je peux aussi te faire une **fiche ultra-condensée d’une page avec uniquement ce qu’il faut apprendre par cœur pour l’évaluation**.

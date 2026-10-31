@@ -1,0 +1,700 @@
+# Neurosciences — Imagerie, anatomie et fonctionnement du cerveau
+
+## 1. Comment étudier le cerveau ?
+
+On peut étudier le cerveau de deux façons complémentaires :
+
+- **sa structure** : anatomie, lésions, connexions entre régions ;
+- **son fonctionnement** : régions actives, activité électrique, traitement de l’information.
+
+### A. L’IRM
+
+L’**imagerie par résonance magnétique (IRM)** permet d’obtenir des images très précises du cerveau.
+
+Plus le **champ magnétique** utilisé est important, plus il est possible d’observer des détails fins.
+
+L’IRM est particulièrement utile lorsqu’on cherche :
+
+- de petites lésions ;
+- des anomalies anatomiques fines ;
+- une localisation précise avant une intervention.
+
+### B. Le scanner
+
+Le **scanner** utilise des **rayons X**. Leur pénétration dépend de la densité des tissus.
+
+Il est notamment utile pour visualiser rapidement des anomalies ou lésions importantes. Il est moins précis que l’IRM pour certaines anomalies fines.
+
+### C. La tractographie par imagerie de diffusion
+
+La **tractographie** permet de visualiser les grands faisceaux de **substance blanche**, donc les connexions entre différentes régions cérébrales.
+
+Exemples :
+
+- le **corps calleux** relie les deux hémisphères ;
+- certains grands faisceaux traversent le cerveau pour transmettre des informations vers la moelle épinière.
+
+---
+
+# 2. Substance grise et substance blanche
+
+## Substance grise
+
+Elle contient principalement les **corps cellulaires des neurones (somas)** et leurs dendrites.
+
+Un neurone possède plusieurs territoires importants :
+
+1. **Dendrites** → réception de l’information.
+2. **Soma** → corps cellulaire assurant la vie de la cellule.
+3. **Axone** → propagation du potentiel d’action.
+4. **Terminaisons axonales** → transmission de l’information aux autres neurones.
+
+## Substance blanche
+
+Elle correspond principalement aux **axones** reliant différentes régions cérébrales.
+
+Ces axones sont souvent entourés de **myéline**, riche en lipides. Cette myéline leur donne leur aspect blanchâtre.
+
+### Rôle de la myéline
+
+La myéline permet au **potentiel d’action de se propager plus rapidement** le long de l’axone.
+
+### À retenir
+
+**Substance grise = corps cellulaires → traitement**
+
+**Substance blanche = axones → communication**
+
+---
+
+# 3. Étudier l’activité du cerveau
+
+## A. IRM fonctionnelle
+
+L’**IRM fonctionnelle (IRMf)** permet d’identifier les régions dont l’activité augmente pendant une tâche.
+
+Lorsqu’un groupe de neurones devient plus actif :
+
+- il consomme davantage d’énergie ;
+- ses besoins en oxygène augmentent ;
+- le débit sanguin local se modifie ;
+- le rapport entre oxyhémoglobine et désoxyhémoglobine change.
+
+Ces variations produisent le **signal BOLD**.
+
+Exemple : si une personne bouge un doigt pendant l’IRMf, l’activité du cortex moteur impliqué augmente.
+
+### Attention à l’interprétation
+
+Les images d’IRMf sont généralement obtenues par **comparaison entre deux situations** :
+
+> activité pendant une tâche − activité au repos.
+> 
+
+Une zone qui n’apparaît pas sur l’image n’est donc **pas inactive** : son activité n’a simplement pas suffisamment augmenté par rapport à la condition de référence.
+
+---
+
+## B. EEG : électroencéphalographie
+
+Les neurones produisent une activité électrique.
+
+L’**EEG** utilise des électrodes placées sur le cuir chevelu pour enregistrer à distance cette activité.
+
+Son grand intérêt est sa **très bonne résolution temporelle** : l’activité cérébrale peut être suivie très rapidement.
+
+---
+
+## C. Magnétoencéphalographie
+
+L’activité électrique des neurones produit également de très faibles **champs magnétiques**.
+
+La **magnétoencéphalographie (MEG)** permet de mesurer ces champs.
+
+Elle nécessite cependant un matériel complexe et coûteux.
+
+---
+
+## D. Électrodes intracrâniennes
+
+Dans certaines formes d’épilepsie, on doit déterminer très précisément quelle région déclenche les crises avant de l’enlever chirurgicalement.
+
+Des électrodes peuvent alors être implantées directement dans le cerveau.
+
+Cela permet :
+
+- d’enregistrer l’activité au plus près des neurones ;
+- de repérer une activité anormale ;
+- de localiser précisément le réseau responsable des crises.
+
+Le placement des électrodes peut être réalisé grâce à un repérage **stéréotaxique**, aujourd’hui assisté par des systèmes robotisés.
+
+---
+
+# 4. Utilise-t-on seulement 10 % de notre cerveau ?
+
+**Non.**
+
+L’idée selon laquelle nous n’utiliserions que 10 % de notre cerveau est fausse.
+
+Toutes les régions cérébrales ont une activité, y compris :
+
+- pendant le sommeil ;
+- au repos ;
+- lors d’une activité physique ;
+- lorsque nous réfléchissons.
+
+Ce qui change selon notre état, ce sont notamment les **rythmes d’activité des neurones**.
+
+### Plasticité cérébrale
+
+Lorsqu’une région ne reçoit plus les informations qu’elle traitait normalement, son fonctionnement peut se modifier.
+
+Cette capacité s’appelle la **plasticité cérébrale**.
+
+Elle existe tout au long de la vie mais est particulièrement importante pendant l’enfance.
+
+---
+
+# 5. Repères anatomiques essentiels
+
+## Les trois plans de coupe
+
+À connaître par cœur :
+
+- **horizontal** → parallèle à l’horizon ;
+- **coronal** → parallèle au front ;
+- **sagittal** → sépare les parties droite et gauche du cerveau.
+- 
+
+!image.png
+
+---
+
+# 6. Les lobes cérébraux
+
+Deux sillons sont particulièrement importants :
+
+- le **sillon central** ;
+- le **sillon latéral**.
+
+Ils permettent de repérer les principaux lobes.
+
+### Lobe frontal
+
+Situé à l’avant du cerveau, devant le sillon central. C'est la zone du raisonnement, de la planification, de la prise de décision et de la mémoire de travail.
+
+Il participe notamment aux fonctions cognitives et au contrôle du mouvement.
+
+### Lobe pariétal
+
+Situé derrière le lobe frontal.  Il intègre les informations du toucher, de la température, de la pression et de la douleur 
+
+Il contient notamment des régions importantes pour les informations somatosensorielle.
+
+### Lobe temporal
+
+Situé sous le sillon latéral.
+
+Il participe notamment au traitement auditif et à certaines étapes de reconnaissance visuelle.
+
+### Lobe occipital
+
+Situé à l’arrière du cerveau.
+
+Il contient les principales régions impliquées dans la **vision**.
+
+### Insula
+
+L’insula est cachée en profondeur sous les lobes frontal et temporal.
+
+Elle participe notamment :
+
+- à la perception des sensations internes du corps (**interoception**) ;
+- aux émotions ;
+- au traitement de la douleur ;
+- au goût.
+
+Exemple : lors d’un stress intense, la sensation de poitrine serrée ou les autres sensations corporelles associées à l’émotion impliquent notamment l’insula.
+
+---
+
+# 7. Cortex, gyri et sillons
+
+Le **cortex cérébral** correspond à la partie extérieure du cerveau.
+
+Il présente de nombreux replis :
+
+- les reliefs sont appelés **gyri** ;
+- les creux sont appelés **sillons**.
+
+Les gyri permettent de repérer précisément les régions corticales.
+
+Exemples :
+
+- gyrus précentral ;
+- gyrus postcentral ;
+- gyrus temporal supérieur ;
+- gyrus temporal moyen ;
+- gyrus temporal inférieur.
+
+Des **atlas cérébraux** permettent ensuite une localisation beaucoup plus précise.
+
+---
+
+# 8. Ventricules et liquide céphalo-rachidien
+
+Le cerveau possède des cavités appelées **ventricules**.
+
+Elles contiennent du **liquide céphalo-rachidien (LCR)**.
+
+Le LCR est produit au niveau des ventricules par les **plexus choroïdes**, puis circule dans et autour du système nerveux central avant d’être réabsorbé.
+
+### Fonctions du LCR
+
+Il permet notamment :
+
+- une **protection mécanique** du cerveau contre les chocs ;
+- l'évacuation de certains déchets ;
+- une participation à la protection du système nerveux.
+
+### Hydrocéphalie
+
+Si la circulation du LCR est bloquée alors que sa production continue, les ventricules augmentent de volume.
+
+C’est l’**hydrocéphalie**.
+
+Cette augmentation de pression peut comprimer le tissu cérébral.
+
+---
+
+# 9. Principe général du traitement sensoriel
+
+Le professeur présente un schéma général qui permet de comprendre plusieurs systèmes sensoriels.
+
+## Les grandes étapes
+
+**Stimulus physique → récepteur sensoriel → transduction → transmission nerveuse → thalamus → cortex sensoriel primaire → cortex secondaire → régions associatives**
+
+### 1. Transduction
+
+Transformation d’un stimulus physique ou chimique en **signal électrique neuronal**.
+
+### 2. Transmission
+
+Les potentiels d’action se propagent dans les nerfs vers le cerveau.
+
+### 3. Relais thalamique
+
+La majorité des systèmes sensoriels passent par le **thalamus**.
+
+Le thalamus joue donc le rôle de grand relais sensoriel.
+
+**Exception importante : l’olfaction.**
+
+### 4. Cortex sensoriel primaire
+
+Il réalise une première analyse, relativement **brute**, de l’information.
+
+### 5. Cortex sensoriel secondaire
+
+Il réalise une analyse plus élaborée et permet une **reconstruction plus complexe** de l’information.
+
+### 6. Aires associatives
+
+Elles mettent cette information en relation avec :
+
+- les souvenirs ;
+- le contexte ;
+- les connaissances ;
+- les autres informations sensorielles.
+
+C’est ce qui permet de **donner du sens à ce que l’on perçoit**.
+
+---
+
+# 10. La vision
+
+## Étape 1 : rétine
+
+Dans la rétine se trouvent notamment :
+
+- les **cônes** ;
+- les **bâtonnets**.
+
+Ces photorécepteurs transforment la lumière en signal électrique : c’est la **transduction**.
+
+## Étape 2 : nerf optique
+
+Le signal est transmis sous forme de potentiels d’action dans le **nerf optique**.
+
+Les voies visuelles se croisent partiellement au niveau du **chiasma optique**.
+
+## Étape 3 : thalamus
+
+L’information rejoint ensuite le thalamus.
+
+## Étape 4 : cortex visuel primaire V1
+
+Le thalamus transmet l’information au **cortex visuel primaire V1**, situé dans le lobe occipital.
+
+V1 réalise une première reconstruction de l’image.
+
+## Étape 5 : aires visuelles secondaires
+
+L’information est progressivement enrichie :
+
+- formes ;
+- lignes ;
+- couleurs ;
+- textures ;
+- mouvements.
+
+Certaines régions du lobe temporal inférieur sont particulièrement impliquées dans la reconnaissance de catégories d’objets, d’animaux ou de visages.
+
+## Étape 6 : régions associatives
+
+L’objet ou la personne reconnu(e) peut ensuite être relié(e) à nos souvenirs et au contexte.
+
+---
+
+## Conséquences de lésions visuelles
+
+### Lésion de V1
+
+Si V1 est détruit alors que les yeux et les nerfs optiques sont intacts, la personne peut devenir aveugle.
+
+On parle de **cécité corticale**.
+
+### Activité épileptique dans V1
+
+Une activité spontanée de V1 peut provoquer des **hallucinations visuelles simples** :
+
+- points lumineux ;
+- taches ;
+- formes simples.
+
+### Activité anormale dans des aires visuelles secondaires
+
+Elle peut produire des **hallucinations visuelles complexes**, par exemple la perception d'animaux ou d'objets qui ne sont pas réellement présents.
+
+---
+
+# 11. Reconnaissance des visages : prosopagnosie
+
+Certaines zones visuelles spécialisées participent à l’identification des visages.
+
+Si ces régions sont lésées, la personne peut continuer à voir :
+
+- les yeux ;
+- le nez ;
+- les oreilles ;
+- la forme générale du visage,
+
+mais ne plus parvenir à reconnaître **l’identité de la personne**.
+
+C’est la **prosopagnosie**.
+
+La personne peut alors utiliser d’autres indices :
+
+- vêtements ;
+- démarche ;
+- voix ;
+- contexte.
+
+---
+
+# 12. L’audition
+
+Le principe est le même que pour la vision.
+
+## Étape 1 : stimulus
+
+Le son correspond à une **vibration de l’air**.
+
+Cette vibration entraîne successivement :
+
+- le tympan ;
+- les osselets ;
+- la cochlée de l’oreille interne.
+
+## Étape 2 : transduction
+
+Dans la cochlée, des cellules spécialisées transforment les variations mécaniques en signal électrique.
+
+## Étape 3 : transmission
+
+Le signal est transmis par le **nerf auditif** jusqu’au cerveau.
+
+## Étape 4 : thalamus
+
+Le signal passe par le thalamus.
+
+## Étape 5 : cortex auditif primaire A1
+
+A1 analyse les propriétés élémentaires du son :
+
+- fréquence → grave/aigu ;
+- intensité → fort/faible ;
+- localisation spatiale.
+
+Il est situé dans la région du **gyrus temporal supérieur**.
+
+## Étape 6 : cortex auditif secondaire A2
+
+A2 met les différents éléments sonores en relation afin de produire une perception plus élaborée.
+
+Les régions associatives permettent ensuite d'interpréter le son selon son contexte.
+
+---
+
+## Hallucinations auditives
+
+Une activité anormale d’A1 peut produire des perceptions sonores relativement simples.
+
+Une activité anormale des régions auditives secondaires peut produire des sons beaucoup plus complexes, par exemple de la **musique perçue comme venant de l’extérieur**.
+
+---
+
+# 13. Somesthésie : toucher, douleur, température…
+
+La **somesthésie** correspond notamment :
+
+- au toucher ;
+- à la pression ;
+- au chaud et au froid ;
+- à la douleur ;
+- aux informations venant des muscles et articulations.
+
+Des récepteurs présents dans la peau, les muscles et les articulations transforment ces stimulations en potentiels d’action.
+
+L’information remonte ensuite jusqu’au **thalamus**, puis vers le **cortex somatosensoriel primaire S1**.
+
+S1 se situe dans le **gyrus postcentral**, juste derrière le sillon central.
+
+Il analyse notamment :
+
+- la modalité du stimulus ;
+- son intensité ;
+- sa localisation sur le corps.
+
+---
+
+# 14. Organisation somatotopique : l’homoncule sensoriel
+
+Les différentes parties du corps ne disposent pas de la même quantité de cortex.
+
+Les **mains** et le **visage** occupent une surface corticale particulièrement importante.
+
+Pourquoi ?
+
+Parce que ces régions nécessitent une discrimination sensorielle très fine.
+
+Chez l’humain :
+
+- les mains servent énormément à explorer et manipuler l’environnement ;
+- le visage intervient fortement dans la communication sociale et les expressions émotionnelles.
+
+Si l’on représente le corps en fonction de la surface corticale qui lui est consacrée, on obtient un personnage déformé appelé **homoncule sensoriel**, avec notamment de très grandes mains et un grand visage.
+
+### Organisation controlatérale
+
+Les informations se croisent :
+
+**côté droit du corps → cortex gauche**
+
+**côté gauche du corps → cortex droit**
+
+---
+
+# 15. Gustation et olfaction
+
+## Gustation
+
+Les récepteurs du goût se trouvent notamment au niveau de la langue et du palais.
+
+L’information gustative passe par le thalamus et implique ensuite notamment **l’insula**.
+
+## Olfaction : une exception
+
+L’olfaction ne suit pas exactement le même circuit que les autres sens.
+
+Elle possède des connexions particulièrement directes avec les circuits impliqués dans les **émotions**.
+
+Cela explique qu’une odeur puisse très facilement déclencher une émotion ou rappeler un souvenir.
+
+---
+
+# 16. Notre perception dépend de nos récepteurs
+
+Nous ne percevons pas toute la réalité physique : nous percevons uniquement les signaux auxquels nos récepteurs sont sensibles.
+
+D’autres espèces possèdent des systèmes sensoriels différents.
+
+Ainsi, selon leurs récepteurs, certains animaux peuvent détecter des sons ou des longueurs d’onde que l’être humain ne perçoit pas.
+
+**Idée essentielle : notre perception du monde dépend des capacités de notre système sensoriel.**
+
+---
+
+# 17. Organisation du mouvement volontaire
+
+Le mouvement volontaire ne consiste pas simplement à « envoyer un ordre au muscle ».
+
+Plusieurs étapes sont nécessaires.
+
+### 1. Intention
+
+Il faut déterminer **ce que l’on veut faire**.
+
+Cette étape implique notamment les régions associatives et préfrontales.
+
+### 2. Décision
+
+Il faut décider d’exécuter le mouvement.
+
+### 3. Préparation et programmation
+
+Le cerveau doit organiser les différentes contractions musculaires nécessaires.
+
+Le **cortex prémoteur** participe à cette préparation des mouvements complexes.
+
+Avec l’apprentissage, certaines séquences deviennent progressivement plus automatiques.
+
+Exemple : apprendre un geste sportif demande d’abord beaucoup de contrôle ; avec l’entraînement, la séquence devient beaucoup plus automatique.
+
+### 4. Exécution : cortex moteur primaire M1
+
+Le **cortex moteur primaire M1** donne l’ordre d’exécution.
+
+Il se situe dans le **gyrus précentral**, juste devant le sillon central.
+
+Ses neurones projettent vers la moelle épinière, puis vers les motoneurones contrôlant les muscles.
+
+### Organisation controlatérale
+
+Comme pour la sensibilité :
+
+**cortex moteur gauche → mouvements du côté droit**
+
+**cortex moteur droit → mouvements du côté gauche**
+
+Une lésion du cortex moteur gauche peut donc provoquer une faiblesse ou paralysie du côté droit.
+
+---
+
+# 18. Stimulation magnétique transcrânienne
+
+La **stimulation magnétique transcrânienne** permet d’agir sur certaines régions corticales sans introduire d’électrode dans le cerveau.
+
+Un champ magnétique bref peut activer les neurones.
+
+Si l’on stimule différentes parties du cortex moteur, on peut provoquer involontairement des mouvements des parties du corps correspondantes.
+
+---
+
+# 19. Interfaces cerveau-machine et intelligence artificielle
+
+L’activité électrique du cortex produit une quantité considérable d’informations.
+
+Des électrodes peuvent enregistrer les patterns d’activité cérébrale d’une personne qui essaie, par exemple, de produire des mots malgré une incapacité à parler à la suite d’une lésion cérébrale.
+
+Des systèmes d’**intelligence artificielle** peuvent apprendre à reconnaître ces patterns et à reconstruire ce que la personne cherche à communiquer.
+
+Ces techniques représentent donc une piste importante pour aider des patients présentant certaines lésions cérébrales.
+
+---
+
+# Le schéma fondamental à connaître
+
+Pour comprendre presque tout le chapitre sensoriel, mémoriser :
+
+**STIMULUS**
+
+↓
+
+**RÉCEPTEUR**
+
+↓
+
+**TRANSDUCTION**
+
+*signal physique/chimique → signal électrique*
+
+↓
+
+**TRANSMISSION nerveuse**
+
+↓
+
+**THALAMUS** *(sauf olfaction)*
+
+↓
+
+**CORTEX PRIMAIRE**
+
+*analyse brute*
+
+↓
+
+**CORTEX SECONDAIRE**
+
+*analyse/reconstruction élaborée*
+
+↓
+
+**AIRES ASSOCIATIVES**
+
+*signification + contexte + mémoire*
+
+---
+
+# Repères à apprendre par cœur
+
+**Substance grise** → corps cellulaires des neurones
+
+**Substance blanche** → axones myélinisés
+
+**Corps calleux** → communication entre les deux hémisphères
+
+**Occipital** → vision
+
+**Temporal** → audition + reconnaissance visuelle
+
+**Pariétal** → somesthésie
+
+**Frontal** → fonctions cognitives et mouvement
+
+**Insula** → interoception, émotions, douleur, goût
+
+**V1** → cortex visuel primaire
+
+**A1** → cortex auditif primaire
+
+**S1** → cortex somatosensoriel primaire
+
+**M1** → cortex moteur primaire
+
+**Gyrus précentral** → M1 → mouvement
+
+**Gyrus postcentral** → S1 → sensibilité
+
+**Côté gauche du cerveau ↔ côté droit du corps**
+
+**IRMf** → variations de consommation énergétique/flux sanguin
+
+**EEG** → activité électrique
+
+**Tractographie** → faisceaux de substance blanche
+
+**Prosopagnosie** → difficulté/incapacité à reconnaître les visages
+
+**Cécité corticale** → perte de vision liée à une atteinte du cortex visuel
+
+**Hydrocéphalie** → accumulation de LCR avec dilatation des ventricules
+
+---
+
+# La logique générale du cours en une phrase
+
+Le cerveau **reçoit** des informations par les récepteurs sensoriels, les **transforme et les transmet**, les **reconstruit progressivement** dans les cortex sensoriels puis leur **donne du sens grâce aux aires associatives** ; inversement, pour agir, il élabore une intention, **programme le mouvement puis l’exécute grâce au cortex moteur**.
